@@ -1,0 +1,6 @@
+/moa_backend/vendor
+/moa_backend/.env
+/moa_backend/database/database.sqlite
+/moa_frontend/node_modules
+/moa_frontend/build
+.DS_Store
